@@ -1,6 +1,7 @@
 RENCANA KONTEN
 
 -Javascript
+-Struktur data dasar
 -PHP Fremwork
 -Interview
 -Vlog
